@@ -1,0 +1,154 @@
+[[Qt5Charts]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a65722a117d6465ead35cbb02feb8b8f40172c45"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Charts.download]]
+    sha256 = "087e9cf13f3b2fb50f9d09af6de87890b207213c3f4a67aac10e5932187211b9"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Qt5Charts]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c05468790854851e605f71739e9d5206b796c29"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Charts.download]]
+    sha256 = "f274e76363b433417ac3cc1ed640a0ad9a4a6087cba3ed9e04734b6e903fc2f9"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt5Charts]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "360d10f4e2a583aa86fb95c67fe6fbd7c06ec665"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Charts.download]]
+    sha256 = "987b648156149d1564d424a9821b78345a8441ea497d2c4e022c3f5b341d4c0b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Qt5Charts]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f897260d8dc98b9fe0e15bbf90091fdc45cc3b4c"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Charts.download]]
+    sha256 = "80a397b2a1ee0d1f7487ec211b6e1a9cc6c0bde2ab506bfa07271811370dd342"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt5Charts]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ee8baa26623ee59ac9d6e75976a99713c1f5e372"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Charts.download]]
+    sha256 = "57839aef8c5024bc424c2bfe64cb88de76b3d73b7f49a34c7b824c3e25ce74c2"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.i686-linux-gnu-cxx03.tar.gz"
+[[Qt5Charts]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7d5415696324c0ab51232b13d46be876a413e998"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Charts.download]]
+    sha256 = "f25ac07b7c59bc352fc9d89b3a9969ff8d813e752aeebb7aaed49b07c4a23abc"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt5Charts]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d45130beb82c6f9290b9f7ae2d6595bad613d007"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Charts.download]]
+    sha256 = "26360c60e86d1cba0635ad7203cdf876b466057a0b2dddbf2da611c477956c7d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Qt5Charts]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "672be4d12fed91788b2da5260b24039361177c8f"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Charts.download]]
+    sha256 = "2b4f1c6764d93757c6ce3ae9fe4b79beeb1266fb2d04d23f1a54f294a1f21178"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Qt5Charts]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7c73e8d7fff1cc2bbf4583cebc9e2f27b16a5e21"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Charts.download]]
+    sha256 = "027a40c6c65b8d7a2e5528c5b7970439ab2cea9cb078661d73755c7981ace86e"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Qt5Charts]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "26f1de29d78a3f6b67460052cb8a7014806095f6"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Charts.download]]
+    sha256 = "18aba8a9f9d9c19ef717918e87ca896045ba7d53fccba1a369dece9e953408a6"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Qt5Charts]]
+arch = "x86_64"
+git-tree-sha1 = "c0f21f870c044803cdf1514bf5af9b4c7c049ac7"
+os = "freebsd"
+
+    [[Qt5Charts.download]]
+    sha256 = "e5117ef12993e7722fc6dbcbac455a370020fd5c4e3d4750bb458a70a7a75d93"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.x86_64-unknown-freebsd.tar.gz"
+[[Qt5Charts]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9d1986d93eaad8c6440a0c1dcebf8ea7fef28855"
+os = "windows"
+
+    [[Qt5Charts.download]]
+    sha256 = "fc50df1555220111eb306aaec90d994f4f48da99e944590a3826db8f74d83d03"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.i686-w64-mingw32-cxx03.tar.gz"
+[[Qt5Charts]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0827e243c78e322ebf4d1b49fe57a182944a5f32"
+os = "windows"
+
+    [[Qt5Charts.download]]
+    sha256 = "76baafa1eecf6d86d0057b92f81a426d614dc3bbd888a4a6c77338e554b77c2d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.i686-w64-mingw32-cxx11.tar.gz"
+[[Qt5Charts]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "99d2a0c009294bc95a3ffa626d476e6c4c52321a"
+os = "windows"
+
+    [[Qt5Charts.download]]
+    sha256 = "16fb02aab97917da28953ab9fec03eb225aea862a3552c480ef618c8aa799bbb"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Qt5Charts]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "434fc845a837e47b88fab395ed71062361f23692"
+os = "windows"
+
+    [[Qt5Charts.download]]
+    sha256 = "c6dac2582ba40de16916cecc76fd3ed301f102c617a7c1627e7a891cc07fc353"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.x86_64-w64-mingw32-cxx11.tar.gz"
+[[Qt5Charts]]
+arch = "x86_64"
+git-tree-sha1 = "4540bf4fb538826de1d2fd77d9cd39c483fe0b4f"
+os = "macos"
+
+    [[Qt5Charts.download]]
+    sha256 = "ec7c305818677eb6c5f63120a031096a69841f29f574ef2b8de8665e2a4c4fcf"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Charts_jll.jl/releases/download/Qt5Charts-v5.15.2+0/Qt5Charts.v5.15.2.x86_64-apple-darwin.tar.gz"
